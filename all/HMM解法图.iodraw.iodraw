@@ -46,7 +46,7 @@
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-20" value="后向算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbNxsa93CMuJF5tKR1Sk-22" value="当前的bin计算所使用后的算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zbNxsa93CMuJF5tKR1Sk-22" value="当前的bin计算所使用后的算法，将前向和后向算法结合取平均值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbNxsa93CMuJF5tKR1Sk-25" target="zbNxsa93CMuJF5tKR1Sk-27">
