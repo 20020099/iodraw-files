@@ -55,8 +55,8 @@
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-25" value="维比特算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbNxsa93CMuJF5tKR1Sk-27" value="维比特算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="zbNxsa93CMuJF5tKR1Sk-27" value="预采用的计算算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
