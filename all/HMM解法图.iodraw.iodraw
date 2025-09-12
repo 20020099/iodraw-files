@@ -49,7 +49,7 @@
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-22" value="当前的bin计算所使用后的算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbNxsa93CMuJF5tKR1Sk-25" value="预测算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zbNxsa93CMuJF5tKR1Sk-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
