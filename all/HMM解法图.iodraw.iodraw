@@ -20,10 +20,10 @@
           <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-10" value="预测算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbNxsa93CMuJF5tKR1Sk-12" value="学习算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
