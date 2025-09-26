@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DjelXd-jc2mHQTBsAz3H-4" value="调用带环境型模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DjelXd-jc2mHQTBsAz3H-10" value="用户输入vcf文件进行预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
