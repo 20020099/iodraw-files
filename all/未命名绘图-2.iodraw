@@ -13,11 +13,17 @@
         <mxCell id="DjelXd-jc2mHQTBsAz3H-1" value="用户输入vcf文件进行预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-4" value="调用带环境型模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjelXd-jc2mHQTBsAz3H-4" value="不输入环境型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjelXd-jc2mHQTBsAz3H-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjelXd-jc2mHQTBsAz3H-10" target="DjelXd-jc2mHQTBsAz3H-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DjelXd-jc2mHQTBsAz3H-10" value="输入环境型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjelXd-jc2mHQTBsAz3H-13" value="模型根据该环境预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
