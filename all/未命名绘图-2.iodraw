@@ -28,7 +28,7 @@
         <mxCell id="DjelXd-jc2mHQTBsAz3H-13" value="模型根据该环境预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-15" value="模型实际调用默认的环境型预测（环境型为连续）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjelXd-jc2mHQTBsAz3H-15" value="模型实际调用默认的环境型预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
