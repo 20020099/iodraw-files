@@ -4,35 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjelXd-jc2mHQTBsAz3H-1" target="DjelXd-jc2mHQTBsAz3H-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DjelXd-jc2mHQTBsAz3H-1" value="用户输入vcf文件进行预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjelXd-jc2mHQTBsAz3H-2" target="DjelXd-jc2mHQTBsAz3H-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjelXd-jc2mHQTBsAz3H-2" target="DjelXd-jc2mHQTBsAz3H-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-2" value="输入环境型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DjelXd-jc2mHQTBsAz3H-4" value="调用带环境型模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjelXd-jc2mHQTBsAz3H-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DjelXd-jc2mHQTBsAz3H-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
