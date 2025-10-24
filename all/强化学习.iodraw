@@ -22,7 +22,7 @@
         <mxCell id="gQD0HXFYEficGzw5qET7-4" value="输入模拟代数和奖励计算规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gQD0HXFYEficGzw5qET7-6" value="输入模拟代数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gQD0HXFYEficGzw5qET7-6" value="每代的子代作为新的父母本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
