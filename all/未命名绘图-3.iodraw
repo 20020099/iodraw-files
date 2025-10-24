@@ -16,8 +16,14 @@
         <mxCell id="gQD0HXFYEficGzw5qET7-2" value="遗传文件可以输入每个位点的染色体位置、重组率信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gQD0HXFYEficGzw5qET7-4" value="输入基因型和遗传文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gQD0HXFYEficGzw5qET7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gQD0HXFYEficGzw5qET7-4" target="gQD0HXFYEficGzw5qET7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQD0HXFYEficGzw5qET7-4" value="输入模拟代数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQD0HXFYEficGzw5qET7-6" value="输入模拟代数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
