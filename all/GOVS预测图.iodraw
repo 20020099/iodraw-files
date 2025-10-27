@@ -16,6 +16,9 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-2" value="pmatrix()：构建先验概率矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ocMxwNYt41grT2PxDc7l-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocMxwNYt41grT2PxDc7l-4" target="ocMxwNYt41grT2PxDc7l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-4" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-8" value="binConstruct()：生成Bin结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-10" value="根据用户的选择进行调用模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
