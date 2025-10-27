@@ -16,8 +16,20 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-2" value="pmatrix()：构建先验概率矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ocMxwNYt41grT2PxDc7l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocMxwNYt41grT2PxDc7l-4" target="ocMxwNYt41grT2PxDc7l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-4" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocMxwNYt41grT2PxDc7l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocMxwNYt41grT2PxDc7l-6" target="ocMxwNYt41grT2PxDc7l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocMxwNYt41grT2PxDc7l-6" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocMxwNYt41grT2PxDc7l-8" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
