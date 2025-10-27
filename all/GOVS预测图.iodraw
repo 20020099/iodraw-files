@@ -40,7 +40,7 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-10" value="根据用户的选择进行调用模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocMxwNYt41grT2PxDc7l-13" value="genomeOptimization()：性状与Bin的回归分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocMxwNYt41grT2PxDc7l-13" value="genome&lt;div&gt;Optimization()：性状与Bin的回归分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-15" value="extractGenome()：虚拟基因组构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
