@@ -46,7 +46,7 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-15" value="extractGenome()：虚拟基因组构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocMxwNYt41grT2PxDc7l-17" value="根据用户的选择进行调用模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocMxwNYt41grT2PxDc7l-17" value="statDesign()：统计分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
