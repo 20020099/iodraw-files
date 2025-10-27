@@ -10,7 +10,7 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-1" value="输入数据(snp数据，表型数据)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocMxwNYt41grT2PxDc7l-2" value="输入数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocMxwNYt41grT2PxDc7l-2" value="pmatrix()：构建先验概率矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
