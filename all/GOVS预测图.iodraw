@@ -34,7 +34,7 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-8" value="binConstruct()：生成Bin结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocMxwNYt41grT2PxDc7l-10" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一调度接口，执行 D/E/S/DES 模式&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocMxwNYt41grT2PxDc7l-10" value="根据用户的选择进行调用模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
