@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-1" value="输入数据(snp数据，表型数据)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocMxwNYt41grT2PxDc7l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocMxwNYt41grT2PxDc7l-2" target="ocMxwNYt41grT2PxDc7l-4">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="ocMxwNYt41grT2PxDc7l-6" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocMxwNYt41grT2PxDc7l-8" value="omatrix()：执行Viterbi路径推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocMxwNYt41grT2PxDc7l-8" value="binConstruct()：生成Bin结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
