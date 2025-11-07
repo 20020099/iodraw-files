@@ -23,7 +23,10 @@
           <mxGeometry x="771" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-5" value="原始传递参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlmhzSWzYulEhCHBT1f5-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
