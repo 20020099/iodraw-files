@@ -4,17 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DYvhUe-MQOZNyO81LGTP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DYvhUe-MQOZNyO81LGTP-1" target="DYvhUe-MQOZNyO81LGTP-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DYvhUe-MQOZNyO81LGTP-1" value="直接使用run_all.sh调用函数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYvhUe-MQOZNyO81LGTP-2" value="挑选出理论上表型最优所含有的bin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DYvhUe-MQOZNyO81LGTP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
