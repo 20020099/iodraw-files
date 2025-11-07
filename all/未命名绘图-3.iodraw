@@ -19,8 +19,8 @@
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-1" value="后端传递参数到流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZlmhzSWzYulEhCHBT1f5-3" value="使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="ZlmhzSWzYulEhCHBT1f5-3" value="使用run_all_pipeline.py调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
