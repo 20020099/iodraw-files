@@ -22,7 +22,7 @@
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-3" value="使用run_all_pipeline.py调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="771" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZlmhzSWzYulEhCHBT1f5-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZlmhzSWzYulEhCHBT1f5-5" value="原始传递参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
