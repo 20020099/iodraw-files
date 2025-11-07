@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYvhUe-MQOZNyO81LGTP-2" value="前端传递config文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZlmhzSWzYulEhCHBT1f5-1" target="ZlmhzSWzYulEhCHBT1f5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-1" value="后端传递参数到流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZlmhzSWzYulEhCHBT1f5-3" value="使用run_all_pipeline.py调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="771" y="110" width="120" height="60" as="geometry" />
