@@ -7,7 +7,7 @@
         <mxCell id="DYvhUe-MQOZNyO81LGTP-1" value="直接使用run_all.sh调用函数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DYvhUe-MQOZNyO81LGTP-2" value="挑选出理论上表型最优所含有的bin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DYvhUe-MQOZNyO81LGTP-2" value="前端传递config文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
