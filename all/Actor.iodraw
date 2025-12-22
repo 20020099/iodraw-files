@@ -1,69 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="3mS8-aeaVCgvgoM7aA8B">
+  <diagram name="第 1 页" id="xUX5SaPoLkvcE07wNajv">
     <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-2" target="31_Tb284iVuOMk8Gwbeu-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-2" value="原始数据提取出环境输入、碱基和位置信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-4" target="31_Tb284iVuOMk8Gwbeu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-4" value="初始化环境，输出基因信息(N,L,2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-6" target="31_Tb284iVuOMk8Gwbeu-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-6" target="31_Tb284iVuOMk8Gwbeu-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-6" value="对环境输出数据进行嵌入(N,128)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-8" target="31_Tb284iVuOMk8Gwbeu-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-8" target="31_Tb284iVuOMk8Gwbeu-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="70" y="390" />
-              <mxPoint x="70" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-8" value="Actor根据嵌入数据和群体信息输出配对，并采取行动更新环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-9" target="31_Tb284iVuOMk8Gwbeu-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-9" value="Critic根据嵌入信息和配对信息和群体信息评估价值values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-10" target="31_Tb284iVuOMk8Gwbeu-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="355" as="sourcePoint" />
-            <mxPoint x="300" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-10" target="31_Tb284iVuOMk8Gwbeu-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="580" as="targetPoint" />
-            <mxPoint x="360" y="360" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-10" value="Set_Transformer构建群体信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-14" value="搜集每轮训练的reward和values使用PPO来更新网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
