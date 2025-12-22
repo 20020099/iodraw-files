@@ -13,7 +13,7 @@
         <mxCell id="o8RLcdapVsDrwJds0VIm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-2" target="o8RLcdapVsDrwJds0VIm-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8RLcdapVsDrwJds0VIm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="o8RLcdapVsDrwJds0VIm-2" value="转换基因型数据为碱基后进行4维独热编码，形状为(N,L,8)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8RLcdapVsDrwJds0VIm-14" value="在c++中调用模型进行预测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
