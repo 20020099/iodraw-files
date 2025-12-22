@@ -10,8 +10,14 @@
         <mxCell id="TLbwbeO1d-zbthKZkEf6-2" value="嵌入输出和群体信息以及配对信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TLbwbeO1d-zbthKZkEf6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TLbwbeO1d-zbthKZkEf6-3" target="TLbwbeO1d-zbthKZkEf6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TLbwbeO1d-zbthKZkEf6-3" value="Transformer Enconder编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLbwbeO1d-zbthKZkEf6-5" value="平均池化加MLP得到values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="320" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
