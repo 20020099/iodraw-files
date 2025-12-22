@@ -19,7 +19,7 @@
         <mxCell id="WqMVyEaobBPSpB3OUz4s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WqMVyEaobBPSpB3OUz4s-6" target="WqMVyEaobBPSpB3OUz4s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WqMVyEaobBPSpB3OUz4s-6" value="进行CNN抽取特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WqMVyEaobBPSpB3OUz4s-6" value="执行注意力池化(PMA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WqMVyEaobBPSpB3OUz4s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WqMVyEaobBPSpB3OUz4s-8" target="WqMVyEaobBPSpB3OUz4s-9">
