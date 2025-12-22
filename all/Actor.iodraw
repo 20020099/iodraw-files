@@ -34,7 +34,7 @@
         <mxCell id="31_Tb284iVuOMk8Gwbeu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-9" target="31_Tb284iVuOMk8Gwbeu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-9" value="Critic根据嵌入信息和配对信息和群体信息评估价值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="31_Tb284iVuOMk8Gwbeu-9" value="Critic根据嵌入信息和配对信息和群体信息评估价值values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31_Tb284iVuOMk8Gwbeu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-10" target="31_Tb284iVuOMk8Gwbeu-8">
@@ -52,7 +52,7 @@
         <mxCell id="31_Tb284iVuOMk8Gwbeu-10" value="Set_Transformer构建群体信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-14" value="ppo搜集每轮训练的reward和va" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="31_Tb284iVuOMk8Gwbeu-14" value="ppo搜集每轮训练的reward和values来更新网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
