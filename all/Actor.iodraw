@@ -29,10 +29,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31_Tb284iVuOMk8Gwbeu-8" value="结合位置信息进行transformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31_Tb284iVuOMk8Gwbeu-9" value="嵌入输出为(N,128)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31_Tb284iVuOMk8Gwbeu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-10" target="31_Tb284iVuOMk8Gwbeu-8">
           <mxGeometry relative="1" as="geometry">
