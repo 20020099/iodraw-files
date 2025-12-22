@@ -1,0 +1,52 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram id="JL2hV9V8tw-K5nGDxbnV" name="第 1 页">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o8RLcdapVsDrwJds0VIm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-1" target="o8RLcdapVsDrwJds0VIm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-1" value="c++中生成子代基因型数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-2" target="o8RLcdapVsDrwJds0VIm-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-2" value="在c++中进行数据处理，将数据转换为能够读取的格式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-14" value="在c++中调用模型进行预测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-4" target="o8RLcdapVsDrwJds0VIm-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-4" value="&lt;span&gt;c++中生成子代基因型数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-7" target="o8RLcdapVsDrwJds0VIm-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-7" value="&lt;span&gt;将数据存到外存&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-9" target="o8RLcdapVsDrwJds0VIm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-9" value="&lt;span&gt;python读取数据将数据转换为模型能够读取的格式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-11" value="&lt;span&gt;在python调用模型进行预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8RLcdapVsDrwJds0VIm-13" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
