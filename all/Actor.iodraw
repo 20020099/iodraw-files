@@ -7,7 +7,7 @@
         <mxCell id="31_Tb284iVuOMk8Gwbeu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-2" target="31_Tb284iVuOMk8Gwbeu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="31_Tb284iVuOMk8Gwbeu-2" value="环境输出数据(N,L,2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="31_Tb284iVuOMk8Gwbeu-2" value="原始数据提取出环境输入、碱基和位置信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31_Tb284iVuOMk8Gwbeu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31_Tb284iVuOMk8Gwbeu-4" target="31_Tb284iVuOMk8Gwbeu-6">
