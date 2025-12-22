@@ -13,7 +13,7 @@
         <mxCell id="McMjs7zQlea8VJabGTKN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMjs7zQlea8VJabGTKN-4" target="McMjs7zQlea8VJabGTKN-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="McMjs7zQlea8VJabGTKN-4" value="按顺序执行两个自注意块(SAB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="McMjs7zQlea8VJabGTKN-4" value="softmax到样本下标作为父本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMjs7zQlea8VJabGTKN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMjs7zQlea8VJabGTKN-6" target="McMjs7zQlea8VJabGTKN-7">
