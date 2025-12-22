@@ -28,14 +28,21 @@
         <mxCell id="mnWM51J_K5qJpUqSOxaN-1" value="进行CNN抽取特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mnWM51J_K5qJpUqSOxaN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mnWM51J_K5qJpUqSOxaN-3" target="mnWM51J_K5qJpUqSOxaN-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mnWM51J_K5qJpUqSOxaN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mnWM51J_K5qJpUqSOxaN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="525" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mnWM51J_K5qJpUqSOxaN-3" value="结合位置信息进行transformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mnWM51J_K5qJpUqSOxaN-5" value="结合位置信息进行transformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="mnWM51J_K5qJpUqSOxaN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mnWM51J_K5qJpUqSOxaN-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="585" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mnWM51J_K5qJpUqSOxaN-7" value="嵌入输出为(N,128)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
