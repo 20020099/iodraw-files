@@ -7,7 +7,7 @@
         <mxCell id="o8RLcdapVsDrwJds0VIm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-1" target="o8RLcdapVsDrwJds0VIm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8RLcdapVsDrwJds0VIm-1" value="c++中生成子代基因型数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="o8RLcdapVsDrwJds0VIm-1" value="环境输出数据(N,L,2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8RLcdapVsDrwJds0VIm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-2" target="o8RLcdapVsDrwJds0VIm-14" edge="1">
