@@ -22,7 +22,7 @@
         <mxCell id="McMjs7zQlea8VJabGTKN-6" value="条件softmax到下标作为母本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMjs7zQlea8VJabGTKN-7" value="(,256)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="McMjs7zQlea8VJabGTKN-7" value="生成配对数小于要求时自回归继续生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
