@@ -10,23 +10,27 @@
         <mxCell id="o8RLcdapVsDrwJds0VIm-1" value="环境输出数据(N,L,2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8RLcdapVsDrwJds0VIm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-2" target="o8RLcdapVsDrwJds0VIm-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="o8RLcdapVsDrwJds0VIm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8RLcdapVsDrwJds0VIm-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o8RLcdapVsDrwJds0VIm-2" value="转换基因型数据为碱基后进行4维独热编码，形状为(N,L,8)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mnWM51J_K5qJpUqSOxaN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8RLcdapVsDrwJds0VIm-14" target="mnWM51J_K5qJpUqSOxaN-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o8RLcdapVsDrwJds0VIm-14" value="进行CNN抽取特征" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="mnWM51J_K5qJpUqSOxaN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mnWM51J_K5qJpUqSOxaN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mnWM51J_K5qJpUqSOxaN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mnWM51J_K5qJpUqSOxaN-1" target="mnWM51J_K5qJpUqSOxaN-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mnWM51J_K5qJpUqSOxaN-1" value="进行CNN抽取特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnWM51J_K5qJpUqSOxaN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mnWM51J_K5qJpUqSOxaN-3" target="mnWM51J_K5qJpUqSOxaN-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mnWM51J_K5qJpUqSOxaN-3" value="结合位置信息进行transformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
