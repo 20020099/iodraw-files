@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TLbwbeO1d-zbthKZkEf6-2" target="TP_6ZjBRb4vq6T7Pg8Zc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TLbwbeO1d-zbthKZkEf6-2" value="Plant DNAMamba" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -12,6 +15,9 @@
         </mxCell>
         <mxCell id="TLbwbeO1d-zbthKZkEf6-5" value="Plant DNAGPT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-1" value="Plant DNAMamba" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
