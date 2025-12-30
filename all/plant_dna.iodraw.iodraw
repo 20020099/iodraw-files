@@ -29,10 +29,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-9" value="根据基因组预测任务进行微调" style="whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="235" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-11" value="根据基因组预测任务进行微调" style="whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="235" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
