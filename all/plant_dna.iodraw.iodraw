@@ -19,8 +19,14 @@
         <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-5" value="Plant核苷酸转换器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TP_6ZjBRb4vq6T7Pg8Zc-8" target="TP_6ZjBRb4vq6T7Pg8Zc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" width="670" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TP_6ZjBRb4vq6T7Pg8Zc-9" value="" style="whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
