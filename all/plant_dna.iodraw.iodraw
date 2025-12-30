@@ -7,7 +7,7 @@
         <mxCell id="TLbwbeO1d-zbthKZkEf6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TLbwbeO1d-zbthKZkEf6-2" target="TLbwbeO1d-zbthKZkEf6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TLbwbeO1d-zbthKZkEf6-2" value="嵌入输出和群体信息以及配对信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TLbwbeO1d-zbthKZkEf6-2" value="Plant DNAMamba" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLbwbeO1d-zbthKZkEf6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TLbwbeO1d-zbthKZkEf6-3" target="TLbwbeO1d-zbthKZkEf6-5" edge="1">
