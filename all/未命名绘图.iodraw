@@ -16,8 +16,14 @@
         <mxCell id="-969Y94cJjcNO3bjrmhy-2" value="GenomeEncoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-969Y94cJjcNO3bjrmhy-4" value="indi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-969Y94cJjcNO3bjrmhy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-969Y94cJjcNO3bjrmhy-4" target="-969Y94cJjcNO3bjrmhy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-969Y94cJjcNO3bjrmhy-4" value="indiv_emd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-969Y94cJjcNO3bjrmhy-6" value="indiv_emd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
