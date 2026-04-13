@@ -28,7 +28,7 @@
         <mxCell id="-969Y94cJjcNO3bjrmhy-6" value="对所有indiv_emb进行transformer的到pop_emb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-969Y94cJjcNO3bjrmhy-8" value="indiv_emb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-969Y94cJjcNO3bjrmhy-8" value="acor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
