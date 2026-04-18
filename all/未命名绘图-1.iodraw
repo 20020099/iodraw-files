@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="pN2J76IT_G_fVcCb1mmD">
-    <mxGraphModel dx="8941" dy="5236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3865" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry x="613" y="16636" width="197" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FI13bp_mNeOkXbq89yZk-12" value="7. Feature Fusion&#xa;将序列特征与位置特征相加&#xa;x + pos_emb" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="885" y="16537" width="60" height="30" as="geometry" />
+          <mxGeometry x="890" y="16556" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FI13bp_mNeOkXbq89yZk-13" value="8. Transformer Encoder&#xa;多头自注意力建模&#xa;长程依赖关系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="995" y="16537" width="60" height="30" as="geometry" />
